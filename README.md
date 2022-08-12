@@ -13,3 +13,4 @@
 - ⚡ Fun fact: i love anime 
 
 ![Balogunolalere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balogunolalere&show_icons=true&theme=dracula)
+![Balogunolalere's GitHub skyline](https://skyline.github.com/balogunolalere/2021)
