@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Balogunolalere/Balogunolalere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - hey i am @bandersnatchx64 🤖👾👽
 - i am @bandersnatchx64 on twitter 🐦
