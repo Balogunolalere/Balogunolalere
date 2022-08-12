@@ -13,4 +13,4 @@
 - ⚡ Fun fact: i love anime 
 
 ![Balogunolalere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balogunolalere&show_icons=true&theme=dracula)
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&myquote=I knew who I was this morning, but I've changed a few times since then)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?myquote=I knew who I was this morning, but I've changed a few times since then)
