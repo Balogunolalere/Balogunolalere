@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with opensource projects and freelance gigs
 - 💬 Ask me about python, fastapi, django, selenium, nosql
-- 📫 How to reach me: lordareello@hmail.com
+- 📫 How to reach me: lordareello@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love anime 
 
