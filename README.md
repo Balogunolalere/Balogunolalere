@@ -12,4 +12,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love anime 
 
-![Balogunolalere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balogunolalere)
+![Balogunolalere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balogunolalere&show_icons=true&theme=dracula)
